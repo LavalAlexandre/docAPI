@@ -1,0 +1,1 @@
+"""DocAPI - FastAPI-based document processing service."""
